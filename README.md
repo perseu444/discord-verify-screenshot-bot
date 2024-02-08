@@ -25,7 +25,11 @@ git clone https://github.com/your-username/repository-name.git
 - Create a `.env` file in the root of the project with the following variables:
 
   ```
-  DISCORD_TOKEN=your-bot-token
+  TOKEN=
+  CHANNEL_ID=
+  YOUTUBE_CHANNEL_NAME=perseu
+  ROLE_NAME=Verified
+  
   ```
 
 4. Start the bot:
