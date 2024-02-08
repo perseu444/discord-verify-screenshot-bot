@@ -29,7 +29,6 @@ git clone https://github.com/your-username/repository-name.git
   CHANNEL_ID=
   YOUTUBE_CHANNEL_NAME=perseu
   ROLE_NAME=Verified
-  
   ```
 
 4. Start the bot:
