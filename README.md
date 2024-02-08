@@ -2,8 +2,6 @@
 
 This is a Discord bot written in JavaScript that assigns a role to members based on a verification screenshot.
 
-![image](https://github.com/perseu444/discord-verify-screenshot-bot/assets/71997803/f2a54925-e7e5-453f-9df7-292295be0060)
-
 ## Features
 
 - **Role Assignment**: The bot checks if a member has submitted a verification screenshot and, if confirmed, assigns the corresponding role.
@@ -37,13 +35,16 @@ git clone https://github.com/your-username/repository-name.git
 
 node index.js
 
-
 ## How to Use
 
 1. Invite the bot to your Discord server.
 2. Set up the roles and verification channels in your server.
 3. Members should submit a verification screenshot in the designated channel.
 4. The bot will check the screenshot and assign the corresponding role to the member.
+
+## Screenshot Example:
+
+![image](https://github.com/perseu444/discord-verify-screenshot-bot/assets/71997803/f2a54925-e7e5-453f-9df7-292295be0060)
 
 ## Contributing
 
