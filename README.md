@@ -15,7 +15,7 @@ This is a Discord bot written in JavaScript that assigns a role to members based
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/perseu444/discord-verify-screenshot-bot/
 
 2. Install dependencies:
 
